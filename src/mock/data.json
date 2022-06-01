@@ -1,0 +1,54 @@
+{
+    "projects": [
+        {
+            "name": "Multistep form",
+            "src": "../public/images/multistep-form.png",
+			"href": "https://multistep-react-form.vercel.app"
+        },
+        {
+            "name": "Cart App",
+            "src": "../public/images/cart-app.png",
+			"href": "https://cart-app-redux.vercel.app"
+        },
+        {
+            "name": "Quiz App",
+            "src": "../public/images/quiz.png",
+			"href": "https://quiz-app-xi-one.vercel.app"
+        },
+        {
+            "name": "Confetti Landing Page",
+            "src": "../public/images/confetti.png",
+			"href": "https://confetti-weld.vercel.app"
+        },
+        {
+            "name": "Aksi Landing Page",
+            "src": "../public/images/aksi.png",
+			"href": "https://aksi.vercel.app"
+        },
+        {
+            "name": "Golden Web Studio Landing Page",
+            "src": "../public/images/golden.png",
+			"href": "https://golden-web-studio.vercel.app"
+        },
+        {
+            "name": "Mastery Stained Glass Landing Page",
+            "src": "../public/images/mastery-stained-glass.png",
+			"href": "https://mastery-stained-glass.vercel.app"
+        },
+        {
+            "name": "Sinergia University Landing Page",
+            "src": "../public/images/sinergia.png",
+			"href": "https://sinergia.vercel.app"
+        },
+        {
+            "name": "Auto-Express Landing Page",
+            "src": "../public/images/auto-express.png",
+			"href": "https://auto-express.vercel.app"
+        },
+		{
+            "name": "Eddie's Car Landing Page",
+            "src": "../public/images/belaz.png",
+			"href": "https://belaz.vercel.app"
+        }
+    ]
+}
