@@ -45,7 +45,7 @@ const Root = () => {
 						data-scroll
 						data-scroll-speed='2'
 					>
-						<img src='../public/images/hero-image.jpg' alt='' />
+						<img src='hero-image.jpg' alt='' />
 					</div>
 				</div>
 
