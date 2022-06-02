@@ -182,8 +182,9 @@ const Root = () => {
 						<p>
 							<br />
 							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML, CSS,
-							JavaScript, React, Redux, Redux Toolkit, pug,
-							sass/scss, gulp, vite, git, npm,
+							JavaScript, React, Redux, Redux Toolkit, Pug,
+							Sass/Scss, Bootstrap/Ant design/Material UI/Tailwind
+							CSS, Gulp, Vite, Git, Npm,
 							<br />
 						</p>
 					</div>

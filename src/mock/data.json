@@ -40,6 +40,11 @@
             "src": "sinergia.png",
 			"href": "https://sinergia.vercel.app"
         },
+		{
+            "name": "Crypto Table App",
+            "src": "crypto.png",
+			"href": "https://crypto-table-app-react.vercel.app"
+        },
         {
             "name": "Auto-Express Landing Page",
             "src": "auto-express.png",
