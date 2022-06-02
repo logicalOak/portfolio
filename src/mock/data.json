@@ -1,5 +1,10 @@
 {
     "projects": [
+		{
+			"name": "Confetti Landing Page",
+			"src": "confetti.png",
+			"href": "https://confetti-weld.vercel.app"
+		},
         {
             "name": "Multistep form",
             "src": "multistep-form.png",
@@ -14,11 +19,6 @@
             "name": "Quiz App",
             "src": "quiz.png",
 			"href": "https://quiz-app-xi-one.vercel.app"
-        },
-        {
-            "name": "Confetti Landing Page",
-            "src": "confetti.png",
-			"href": "https://confetti-weld.vercel.app"
         },
         {
             "name": "Aksi Landing Page",
