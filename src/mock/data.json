@@ -10,6 +10,26 @@
 			"src": "aksi.png",
 			"href": "https://aksi.vercel.app"
 		},
+		{
+			"name": "Sinergia University Landing Page",
+			"src": "sinergia.png",
+			"href": "https://sinergia.vercel.app"
+		},
+		{
+			"name": "Golden Web Studio Landing Page",
+            "src": "golden.png",
+			"href": "https://golden-web-studio.vercel.app"
+        },
+        {
+			"name": "Mastery Stained Glass Landing Page",
+            "src": "mastery-stained-glass.png",
+			"href": "https://mastery-stained-glass.vercel.app"
+        },
+		{
+			"name": "Crypto Table App",
+            "src": "crypto.png",
+			"href": "https://crypto-table-app-react.vercel.app"
+        },
         {
             "name": "Multistep form",
             "src": "multistep-form.png",
@@ -21,39 +41,15 @@
 			"href": "https://cart-app-redux.vercel.app"
         },
 		{
-			"name": "Sinergia University Landing Page",
-			"src": "sinergia.png",
-			"href": "https://sinergia.vercel.app"
-		},
-        {
-			"name": "Golden Web Studio Landing Page",
-            "src": "golden.png",
-			"href": "https://golden-web-studio.vercel.app"
-        },
-        {
-			"name": "Mastery Stained Glass Landing Page",
-            "src": "mastery-stained-glass.png",
-			"href": "https://mastery-stained-glass.vercel.app"
-        },
-		{
 			"name": "Quiz App",
 			"src": "quiz.png",
 			"href": "https://quiz-app-xi-one.vercel.app"
 		},
-		{
-			"name": "Crypto Table App",
-            "src": "crypto.png",
-			"href": "https://crypto-table-app-react.vercel.app"
-        },
         {
             "name": "Auto-Express Landing Page",
             "src": "auto-express.png",
 			"href": "https://auto-express.vercel.app"
-        },
-		{
-            "name": "Eddie's Car Landing Page",
-            "src": "belaz.png",
-			"href": "https://belaz.vercel.app"
         }
+
     ]
 }
