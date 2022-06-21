@@ -1,7 +1,14 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import projects from './mock/data.json';
 
 const Projects = () => {
+	// Hooks
+	const [loadMore, setLoadMore] = useState(2);
+	const elements = projects.projects;
+	const handleLoadMore = () => {
+		setLoadMore((prevState) => (prevState < elements.length ? prevState + 2 : prevState));
+	};
 	return (
 		<section className='project'>
 			<div className='project-container'>

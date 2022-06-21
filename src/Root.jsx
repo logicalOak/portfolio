@@ -1,7 +1,3 @@
-import projects from './mock/data.json';
-import { useState } from 'react';
-
-import data from './mock/mock.js';
 import {
 	Header,
 	NavBar,
@@ -14,21 +10,12 @@ import {
 } from './components';
 
 const Root = () => {
-	// Hooks
-	const [loadMore, setLoadMore] = useState(2);
-	const elements = projects.projects;
-	const handleLoadMore = () => {
-		setLoadMore((prevState) => (prevState < elements.length ? prevState + 2 : prevState));
-	};
-
 	// Render
 	return (
 		<div className='wrapper'>
 			<div className='container'>
 				{/* Navbar */}
 				<NavBar />
-
-				<div className='divider' />
 
 				{/* Header */}
 				<Header />
@@ -40,65 +27,23 @@ const Root = () => {
 					</div>
 				</div>
 
-				<SectionHeader title='about' order='/001' />
-				{/* <div className='whitespace' />
-
-				<div className='section-header'>
-					<div className='section-header-container'>
-						<div className='section-title'>about</div>
-						<div className='section-order'>/001</div>
-					</div>
-				</div>
-
-				<div className='divider' /> */}
-
 				{/* About */}
+				<SectionHeader title='about' order='/001' />
 				<About />
 
-				<div className='whitespace' />
-
-				<div className='section-header'>
-					<div className='section-header-container'>
-						<div className='section-title'>projects</div>
-						<div className='section-order'>/002</div>
-					</div>
-				</div>
-
-				<div className='divider' />
-
 				{/* Projects */}
+				<SectionsHeader title='projects' order='/002' />
 				<Projects />
 
-				<div className='whitespace' />
-
-				<div className='section-header'>
-					<div className='section-header-container'>
-						<div className='section-title'>stack</div>
-						<div className='section-order'>/003</div>
-					</div>
-				</div>
-
-				<div className='divider' />
-
 				{/* Stack */}
+				<SectionsHeader title='stack' order='/003' />
 				<Stack />
 
-				<div className='whitespace' />
-
-				<div className='section-header'>
-					<div className='section-header-container'>
-						<div className='section-title'>socials</div>
-						<div className='section-order'>/004</div>
-					</div>
-				</div>
-
-				<div className='divider'></div>
-
 				{/* Socials */}
+				<SectionsHeader title='socials' order='/004' />
 				<Socials />
 
 				<div className='divider'></div>
-
 				{/* Footer */}
 				<Footer />
 				<br />
