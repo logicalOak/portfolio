@@ -11,6 +11,16 @@
 			"href": "https://unsplash-searcher-app.vercel.app"
 		},
 		{
+			"name": "Cootels Landing Page",
+			"src": "cootels.png",
+			"href": "https://cootels-tau.vercel.app"
+		},
+		{
+			"name": "Guest House Landing Page",
+			"src": "guest-house.png",
+			"href": "https://guest-house.vercel.app"
+		},
+		{
 			"name": "Aksi Landing Page",
 			"src": "aksi.png",
 			"href": "https://aksi.vercel.app"
