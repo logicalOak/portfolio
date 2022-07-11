@@ -1,5 +1,5 @@
 import React from 'react';
-import data from './mock/mock.js';
+import data from '../mock/mock';
 const Header = () => {
 	return (
 		<div className='header'>

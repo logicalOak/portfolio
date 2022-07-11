@@ -32,15 +32,15 @@ const Root = () => {
 				<About />
 
 				{/* Projects */}
-				<SectionsHeader title='projects' order='/002' />
+				<SectionHeader title='projects' order='/002' />
 				<Projects />
 
 				{/* Stack */}
-				<SectionsHeader title='stack' order='/003' />
+				<SectionHeader title='stack' order='/003' />
 				<Stack />
 
 				{/* Socials */}
-				<SectionsHeader title='socials' order='/004' />
+				<SectionHeader title='socials' order='/004' />
 				<Socials />
 
 				<div className='divider'></div>

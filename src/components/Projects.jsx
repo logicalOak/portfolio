@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import projects from './mock/data.json';
+import projects from '../mock/data.json';
 
 const Projects = () => {
 	// Hooks

@@ -32,39 +32,38 @@
 		},
 		{
 			"name": "Golden Web Studio Landing Page",
-            "src": "golden.png",
+			"src": "golden.png",
 			"href": "https://golden-web-studio.vercel.app"
-        },
-        {
+		},
+		{
 			"name": "Mastery Stained Glass Landing Page",
-            "src": "mastery-stained-glass.png",
+			"src": "mastery-stained-glass.png",
 			"href": "https://mastery-stained-glass.vercel.app"
-        },
+		},
 		{
 			"name": "Crypto Table App",
-            "src": "crypto.png",
+			"src": "crypto.png",
 			"href": "https://crypto-table-app-react.vercel.app"
-        },
-        {
-            "name": "Multistep form",
-            "src": "multistep-form.png",
+		},
+		{
+			"name": "Multistep form",
+			"src": "multistep-form.png",
 			"href": "https://multistep-react-form.vercel.app"
-        },
-        {
-            "name": "Cart App",
-            "src": "cart-app.png",
+		},
+		{
+			"name": "Cart App",
+			"src": "cart-app.png",
 			"href": "https://cart-app-redux.vercel.app"
-        },
+		},
 		{
 			"name": "Quiz App",
 			"src": "quiz.png",
 			"href": "https://quiz-app-xi-one.vercel.app"
 		},
-        {
-            "name": "Auto-Express Landing Page",
-            "src": "auto-express.png",
+		{
+			"name": "Auto-Express Landing Page",
+			"src": "auto-express.png",
 			"href": "https://auto-express.vercel.app"
-        }
-
-    ]
+		}
+	]
 }
